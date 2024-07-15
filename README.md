@@ -9,8 +9,8 @@ This is a simple weather application built using React(Using GreatStack in YT). 
 - Responsive design for mobile and desktop users
 
 ## Built With
--React - A JavaScript library for building user interfaces
--OpenWeatherMap API - Provides weather data
+- React - A JavaScript library for building user interfaces
+- OpenWeatherMap API - Provides weather data
 
 
 Video Link- https://youtu.be/zs1Nq2s_uy4?feature=shared
